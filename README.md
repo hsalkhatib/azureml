@@ -11,7 +11,7 @@
 7. Add competing models if needed
 8. Score and evaluate models.
 
-![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML1.jpg.
+![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML1.jpg).
 
 10. Save a copy of the original workflow. 
 11. Extract the trained model. 
@@ -20,16 +20,16 @@
 
 #### ML Web Service Flow
 
-![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML2.jpg.
+![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML2.jpg).
 
 14. Test the web service and provide the inputs
 
 #### ML Web Service Test Input
 
-![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML3.jpg.
+![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML3.jpg).
 
 15. View the prediction results
 
 #### ML Web Service Test Output
 
-![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML4.jpg.
+![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML4.jpg).
