@@ -13,23 +13,23 @@
 
 ![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML1.jpg).
 
+#### ML Web Service Flow
+
 10. Save a copy of the original workflow. 
 11. Extract the trained model. 
 12. Add Web service inputs and outputs.
 13. Publish Web Service
 
-#### ML Web Service Flow
-
 ![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML2.jpg).
-
-14. Test the web service and provide the inputs
 
 #### ML Web Service Test Input
 
+14. Test the web service and provide the inputs
+
 ![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML3.jpg).
 
-15. View the prediction results
-
 #### ML Web Service Test Output
+
+15. View the prediction results
 
 ![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML4.jpg).
