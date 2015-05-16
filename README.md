@@ -1,5 +1,10 @@
 ## Azure ML Tutorial
 
+### http://login.live.com
+
+### https://studio.azureml.net
+
+
 #### ML Workflow
 
 1. Add a Reader and link to URL https://raw.githubusercontent.com/pujari/azureml/master/titanic-passengers.csv
