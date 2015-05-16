@@ -16,15 +16,16 @@
 #### ML Web Service Flow
 
 10. Save a copy of the original workflow. 
-11. Extract the trained model. 
-12. Add Web service inputs and outputs.
-13. Publish Web Service
+11. Add Project Columns to remove output parameter (predicted value).
+12. Extract the trained model. 
+13. Add Web service inputs and outputs.
+14. Publish Web Service
 
 ![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML2.jpg).
 
 #### ML Web Service Test Input
 
-14. Test the web service and provide the inputs
+15. Test the web service and provide the inputs
 
 ![alt tag](https://github.com/pujari/azureml/blob/master/TitanicML3.jpg).
 
