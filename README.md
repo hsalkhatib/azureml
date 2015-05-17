@@ -1,8 +1,8 @@
 ## Azure ML Tutorial
 
-### http://login.live.com
+#### Register for a Microsoft ID at : http://login.live.com
 
-### https://studio.azureml.net
+#### Login to https://studio.azureml.net
 
 
 #### ML Workflow
