@@ -8,13 +8,19 @@
 #### ML Workflow
 
 1. Create a new blank ML experiment
-2. Add a Reader and link to URL https://raw.githubusercontent.com/pujari/azureml/master/titanic-passengers.csv
-2. Add a Metadata Editor to map categorical features.
-3. Clean up missing data - e.x. replace numbers by mean/median etc.
-4. Project Columns - exclude columns that are not used for prediction.
-5. Split data into Training and Validation
-6. Add a TrainModel and use any two class algorithm to predict the model.
-7. Add competing models if needed
+2. Add a Reader and link to URL 
+    https://raw.githubusercontent.com/pujari/azureml/master/titanic-passengers.csv. 
+    Check box for CSV header. 
+3. Add a Metadata Editor to map categorical features
+    Make pclass, sex, survived and embarked columns categorical.
+4. Clean up missing data - e.x. replace numbers by mean/median etc.
+    Fill in age and fare with median values where missing.
+5. Project Columns - exclude columns that are not used for prediction.
+    Exclude - name, ticket, etc.
+6. Split data into Training and Scoring
+    Use 70% data for training and the rest for scoring. Set split value = 0.7.
+7. Add a TrainModel and use any two class algorithm to predict the model. Add competing models if needed
+    Here Two Class Logistic Regression and a Two Class Neural Network were used.
 8. Score model(s)
 9. Evaluate model(s)
 
